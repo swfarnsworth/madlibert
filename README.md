@@ -10,8 +10,7 @@ of a missing token in a given sample.
  ('class', 0.12625090777873993), 
  ('lunch', 0.0666893795132637), 
  ('it', 0.044688645750284195), 
- ('work', 0.03584672883152962)
-]
+ ('work', 0.03584672883152962)]
 ```
 
 The values returned are a sorted list of prediction-probability pairs; the `k`
